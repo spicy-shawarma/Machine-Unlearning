@@ -15,6 +15,7 @@ Test set accuracy: 88.2%
 Forget set accuracy: 88.0%
 
 And here are the results for the fine-tuned model:
+
 Retain set accuracy: 99.0%
 
 Test set accuracy: 83.6%
