@@ -7,14 +7,20 @@ The pretrained, retrained, and fine-tuned models were subject to a Membership In
 
 
 The retrained model has the following accuracies on the relevant datasets:
+\n
 Retain set accuracy: 99.5%
+\n
 Test set accuracy: 88.2%
+\n
 Forget set accuracy: 88.0%
 
 And here are the results for the fine-tuned model:
 Retain set accuracy: 99.0%
+\n
 Test set accuracy: 83.6%
+\n
 Forget set accuracy: 83.2%
+\n
 
 Unfortunately the fine tuned-model suffers slightly in terms of its accuracy on the test and forget set, but I hope this gap will close in time once I start working on this algorithm with members of Neurotechnology@Berkeley. This is one of our candidate algorithms for our submission to the NeruIPS 2023 Machine Unlearning Challenge.
 
